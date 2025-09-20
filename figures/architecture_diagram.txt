@@ -1,0 +1,26 @@
+==============================================
+ ECOQD-19 DEVICE ARCHITECTURE (not to scale)
+==============================================
+
+[ Top Contact: Au or ITO ]
+        |
+[ HTL: NiOx (5nm) / MoOx (3nm) ]
+        |
+[ QD Stack (120nm total) ]
+   → Top: 1.0nm CISGZ QDs (24nm, 20%) — 2.60 eV
+   → Mid: 2.5nm CISGZ QDs (48nm, 40%) — 1.90 eV
+   → Bot: 4.0nm CISGZ QDs (48nm, 40%) — 1.55 eV
+        |
+[ ETL: Zn0.9Mg0.1O + UV-GO (50nm) ]
+        |
+[ Bottom Contact: FTO or AZO ]
+        |
+[ Substrate: Glass or Flexible PET ]
+
+Ligand on all QDs: 70% L-Cysteine + 30% Br-
+Additive: 1.0% PbI2 surface treatment
+Annealing: 80°C 5min + 110°C 2min
+
+→ Draw this as layered rectangles with labels.
+→ Use color: Blue (wide bandgap) → Green → Red (narrow bandgap)
+→ Label interfaces and thicknesses.
