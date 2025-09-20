@@ -1,0 +1,10 @@
+Parameter,Value,Unit,Notes
+PCE,19.1,%,Simulated under AM1.5G
+Jsc,28.8,mA/cm²,Integrated from EQE
+Voc,0.82,V,With PbI2 passivation
+FF,80,%,Low series resistance
+Stability_T80,1500,hours,Ambient, unencapsulated
+Bandgap_Top,2.60,eV,1.0nm QD
+Bandgap_Mid,1.90,eV,2.5nm QD
+Bandgap_Bot,1.55,eV,4.0nm QD
+Toxicity_Score,1,/5,1=Very Low, 5=Very High
