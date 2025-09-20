@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this repository in your work, please cite it as below."
+title: "EcoQD-19: Simulated 19.1% Efficient Non-Toxic Quantum Dot Solar Cell"
+doi: ""
+authors:
+  - family-names: "YourLastName"
+    given-names: "YourFirstName"
+    affiliation: "Your Institution"
+  - family-names: "AI-PV Lab"
+    given-names: "Orpheus v4.2"
+    affiliation: "Simulation Engine"
+version: "1.0"
+date-released: "2025-04-05"
+repository: "https://github.com/yourusername/EcoQD-19"
+license: "MIT"
